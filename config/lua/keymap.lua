@@ -22,7 +22,6 @@ vim.keymap.set('n', '<leader>a', function() require("harpoon.mark").add_file() e
 vim.keymap.set('n', '<leader>h', function() require("harpoon.ui").toggle_quick_menu()end,  opts)
 for i = 1, 9 do
 	vim.keymap.set('n', '<A-'..i..'>', function() require("harpoon.ui").nav_file(i) end, opts)
-	vim.keymap.set('n', '<leader>'..i, function() require("harpoon.ui").nav_file(i) end, opts)
 end 
 vim.keymap.set('n', '<A-l>', 	 function() require("harpoon.ui").nav_next() end, opts)
 vim.keymap.set('n', '<A-h>', 	 function() require("harpoon.ui").nav_prev() end, opts)
