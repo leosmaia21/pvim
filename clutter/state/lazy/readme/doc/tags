@@ -1,0 +1,96 @@
+!_TAG_FILE_ENCODING	utf-8	//
+cmp-buffer-all-buffers	cmp-buffer.md	/##### All buffers
+cmp-buffer-cmp-buffer	cmp-buffer.md	/# cmp-buffer
+cmp-buffer-configuration	cmp-buffer.md	/## Configuration
+cmp-buffer-get-bufnrs-type-fun-number	cmp-buffer.md	/### get_bufnrs (type: fun(): number\[\])
+cmp-buffer-indexing-and-how-to-optimize-it	cmp-buffer.md	/## Indexing and how to optimize it
+cmp-buffer-indexing-batch-size-type-number	cmp-buffer.md	/### indexing_batch_size (type: number)
+cmp-buffer-indexing-interval-type-number	cmp-buffer.md	/### indexing_interval (type: number)
+cmp-buffer-keyword-length-type-number	cmp-buffer.md	/### keyword_length (type: number)
+cmp-buffer-keyword-pattern-type-string	cmp-buffer.md	/### keyword_pattern (type: string)
+cmp-buffer-locality-bonus-comparator-distance-based-sorting	cmp-buffer.md	/## Locality bonus comparator (distance-based sorting)
+cmp-buffer-max-indexed-line-length-type-number	cmp-buffer.md	/### max_indexed_line_length (type: number)
+cmp-buffer-performance-on-large-text-files	cmp-buffer.md	/### Performance on large text files
+cmp-buffer-setup	cmp-buffer.md	/## Setup
+cmp-buffer-visible-buffers	cmp-buffer.md	/##### Visible buffers
+cmp-path-cmp-path	cmp-path.md	/# cmp-path
+cmp-path-configuration	cmp-path.md	/## Configuration
+cmp-path-get-cwd-type-function	cmp-path.md	/### get_cwd (type: function)
+cmp-path-label-trailing-slash-type-boolean	cmp-path.md	/### label_trailing_slash (type: boolean)
+cmp-path-setup	cmp-path.md	/# Setup
+cmp-path-trailing-slash-type-boolean	cmp-path.md	/### trailing_slash (type: boolean)
+cmp_luasnip-cmp-luasnip	cmp_luasnip.md	/# cmp_luasnip
+friendly-snippets-add-snippets-from-a-framework-to-a-filetype	friendly-snippets.md	/## Add snippets from a framework to a filetype.
+friendly-snippets-credits	friendly-snippets.md	/## Credits
+friendly-snippets-excluding-snippets	friendly-snippets.md	/## Excluding snippets
+friendly-snippets-friendly-snippets	friendly-snippets.md	/# Friendly Snippets
+friendly-snippets-html	friendly-snippets.md	/### HTML
+friendly-snippets-install	friendly-snippets.md	/## Install
+friendly-snippets-js	friendly-snippets.md	/### JS
+friendly-snippets-showcase	friendly-snippets.md	/## Showcase
+friendly-snippets-thanks-to-all-contributors	friendly-snippets.md	/## Thanks to all contributors
+friendly-snippets-todo	friendly-snippets.md	/## TODO
+friendly-snippets-usage	friendly-snippets.md	/## Usage
+friendly-snippets-with-coc-nvim	friendly-snippets.md	/### With coc.nvim
+friendly-snippets-with-lazy-nvim	friendly-snippets.md	/### With Lazy.nvim
+friendly-snippets-with-packer	friendly-snippets.md	/### With Packer
+friendly-snippets-with-vim-plug	friendly-snippets.md	/### With vim-plug
+gcompilecommands.nvim-compile-commands-generator-for-neovim	gcompilecommands.nvim.md	/# Compile Commands Generator for Neovim
+gcompilecommands.nvim-contributions	gcompilecommands.nvim.md	/## Contributions
+gcompilecommands.nvim-how-to-use	gcompilecommands.nvim.md	/## How to Use
+gcompilecommands.nvim-overview	gcompilecommands.nvim.md	/## Overview
+harpoon-commands-to-terminals	harpoon.md	/### Commands to Terminals
+harpoon-configuration	harpoon.md	/## ⇁ Configuration
+harpoon-file-navigation	harpoon.md	/### File Navigation
+harpoon-getting-you-where-you-want-with-the-fewest-keystrokes	harpoon.md	/##### Getting you where you want with the fewest keystrokes.
+harpoon-global-settings	harpoon.md	/### Global Settings
+harpoon-harpoon	harpoon.md	/# Harpoon
+harpoon-harpoon-2	harpoon.md	/## ⇁  HARPOON 2
+harpoon-harpooning	harpoon.md	/## ⇁ Harpooning
+harpoon-how-do-harpoon-marks-differ-from-vim-global-marks	harpoon.md	/#### How do Harpoon marks differ from vim global marks
+harpoon-installation	harpoon.md	/## ⇁ Installation
+harpoon-legacy-harpoon-readme	harpoon.md	/# Legacy Harpoon README
+harpoon-logging	harpoon.md	/## ⇁ Logging
+harpoon-marks	harpoon.md	/### Marks
+harpoon-others	harpoon.md	/## ⇁ Others
+harpoon-preconfigured-terminal-commands	harpoon.md	/### Preconfigured Terminal Commands
+harpoon-social	harpoon.md	/## ⇁ Social
+harpoon-tabline	harpoon.md	/#### Tabline
+harpoon-telescope-support	harpoon.md	/### Telescope Support
+harpoon-terminal-navigation	harpoon.md	/### Terminal Navigation
+harpoon-the-motivation-behind-harpoon-terminals	harpoon.md	/#### The Motivation behind Harpoon terminals
+harpoon-the-problems	harpoon.md	/## ⇁ The Problems:
+harpoon-the-solutions	harpoon.md	/## ⇁  The Solutions:
+harpoon-tmux-support	harpoon.md	/### Tmux Support
+harpoon-use-a-dynamic-width-for-the-harpoon-popup-menu	harpoon.md	/#### Use a dynamic width for the Harpoon popup menu
+harpoon-wip	harpoon.md	/## ⇁  WIP
+nvim-dap-virtual-text-nvim-dap-virtual-text	nvim-dap-virtual-text.md	/# nvim-dap-virtual-text
+nvim-dap-virtual-text-show-stop-reason-on-exception	nvim-dap-virtual-text.md	/## Show Stop Reason on Exception
+nvim-tmux-navigation-additional-help	nvim-tmux-navigation.md	/## Additional help
+nvim-tmux-navigation-alternatives	nvim-tmux-navigation.md	/## Alternatives
+nvim-tmux-navigation-author	nvim-tmux-navigation.md	/## Author
+nvim-tmux-navigation-configuration	nvim-tmux-navigation.md	/## Configuration
+nvim-tmux-navigation-decide-whether-we-re-in-a-vim-process	nvim-tmux-navigation.md	/# decide whether we're in a Vim process
+nvim-tmux-navigation-faq	nvim-tmux-navigation.md	/## FAQ
+nvim-tmux-navigation-installation	nvim-tmux-navigation.md	/## Installation
+nvim-tmux-navigation-license	nvim-tmux-navigation.md	/## License
+nvim-tmux-navigation-neovim	nvim-tmux-navigation.md	/### Neovim
+nvim-tmux-navigation-see-https-github-com-christoomey-vim-tmux-navigator	nvim-tmux-navigation.md	/# See: https:\/\/github.com\/christoomey\/vim-tmux-navigator
+nvim-tmux-navigation-smart-pane-switching-with-awareness-of-vim-splits	nvim-tmux-navigation.md	/# Smart pane switching with awareness of Vim splits.
+nvim-tmux-navigation-tmux	nvim-tmux-navigation.md	/### Tmux
+nvim-tmux-navigation-usage	nvim-tmux-navigation.md	/## Usage
+telescope-fzf-native.nvim-benchmark	telescope-fzf-native.nvim.md	/## Benchmark
+telescope-fzf-native.nvim-c-interface	telescope-fzf-native.nvim.md	/### C Interface
+telescope-fzf-native.nvim-cmake-windows-linux-macos	telescope-fzf-native.nvim.md	/### CMake (Windows, Linux, MacOS)
+telescope-fzf-native.nvim-credit	telescope-fzf-native.nvim.md	/## Credit
+telescope-fzf-native.nvim-developer-interface	telescope-fzf-native.nvim.md	/## Developer Interface
+telescope-fzf-native.nvim-disclaimer	telescope-fzf-native.nvim.md	/## Disclaimer
+telescope-fzf-native.nvim-installation	telescope-fzf-native.nvim.md	/## Installation
+telescope-fzf-native.nvim-lazy-nvim	telescope-fzf-native.nvim.md	/#### lazy.nvim
+telescope-fzf-native.nvim-lua-interface	telescope-fzf-native.nvim.md	/### Lua Interface
+telescope-fzf-native.nvim-make-linux-macos-windows-with-mingw	telescope-fzf-native.nvim.md	/### Make (Linux, MacOS, Windows with MinGW)
+telescope-fzf-native.nvim-packer-nvim	telescope-fzf-native.nvim.md	/#### packer.nvim
+telescope-fzf-native.nvim-telescope-fzf-native-nvim	telescope-fzf-native.nvim.md	/# telescope-fzf-native.nvim
+telescope-fzf-native.nvim-telescope-setup-and-configuration	telescope-fzf-native.nvim.md	/## Telescope Setup and Configuration:
+telescope-fzf-native.nvim-todo	telescope-fzf-native.nvim.md	/### TODO
+telescope-fzf-native.nvim-vim-plug	telescope-fzf-native.nvim.md	/#### vim-plug
